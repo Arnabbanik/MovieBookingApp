@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: BookYourMovie
+  data:
+    mongodb:
+      uri: mongodb+srv://BookYourMovie:Iloveadidas9732!@bookyourmovie.gydoglh.mongodb.net/?retryWrites=true&w=majority&appName=BookYourMovie
+      database: BookYourMovie
